@@ -70,5 +70,5 @@ project_root/
 ├── image/                  # Dataset images (Source)
 ├── re_id_1000_train.txt    # Training index file
 ├── re_id_1000_test.txt     # Testing index file
-├── vehicle_recognition.py  # Main training script
+├── main.py  # Main training script
 └── requirements.txt        # Dependencies
