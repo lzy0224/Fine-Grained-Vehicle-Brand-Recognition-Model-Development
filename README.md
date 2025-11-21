@@ -6,6 +6,15 @@ This project implements a robust **two-stage vehicle recognition system** capabl
 
 Built upon the **ResNet50** architecture with a **Two-Phase Transfer Learning** strategy, the model achieves a top-tier accuracy of **98.54%** on the designated test dataset, significantly surpassing the project baseline of 80%.
 
+## 📥 Resource Download
+
+Due to GitHub file size limitations, the trained model weights and the dataset are hosted on Baidu Netdisk. Please download them before running the code.
+
+| File | Download Link | Extraction Code | Description |
+| :--- | :--- | :--- | :--- |
+| **Trained Model** | [Click to Download](https://pan.baidu.com/s/1k578SnrsoAHn6H-oEL_9pA) | **1234** | `best_resnet_finetuned.h5`. Place this file in the project root directory. |
+| **Dataset** | [Click to Download](https://pan.baidu.com/s/1GnQ0aUciBN1_x85Qn-swWg) | **3rms** | Unzip the content into an `image/` folder in the project root directory. |
+
 ## 🚀 Key Features
 
 - **Two-Level Recognition**: 
