@@ -54,6 +54,11 @@ While the model achieves near-perfect scores on the assignment dataset, an hones
     ```bash
     pip install -r requirements.txt
     ```
+2.  **Run the Model**
+    Place your dataset  in the root folder and run:
+    ```bash
+    python main.py
+    ```
 
 ## 📂 Data Preparation
 
